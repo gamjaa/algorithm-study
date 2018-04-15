@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1152 Word count", "1152 Wor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2309 Seven Dwarfs", "2309 Seven Dwarfs\2309 Seven Dwarfs.vcxproj", "{0102A7A5-2786-4860-86D8-F5F164F092E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CLOCKSYNC", "CLOCKSYNC\CLOCKSYNC.vcxproj", "{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{0102A7A5-2786-4860-86D8-F5F164F092E7}.Release|x64.Build.0 = Release|x64
 		{0102A7A5-2786-4860-86D8-F5F164F092E7}.Release|x86.ActiveCfg = Release|Win32
 		{0102A7A5-2786-4860-86D8-F5F164F092E7}.Release|x86.Build.0 = Release|Win32
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Debug|x64.ActiveCfg = Debug|x64
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Debug|x64.Build.0 = Debug|x64
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Debug|x86.Build.0 = Debug|Win32
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Release|x64.ActiveCfg = Release|x64
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Release|x64.Build.0 = Release|x64
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Release|x86.ActiveCfg = Release|Win32
+		{029E7126-AA33-443D-AFC0-5BAAFEAECEEB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
