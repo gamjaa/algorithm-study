@@ -1,5 +1,5 @@
 ## ¹®Á¦
-https://algospot.com/judge/problem/read/BOARDCOVER
+p.159 https://algospot.com/judge/problem/read/BOARDCOVER
 
 ![](https://algospot.com/media/judge-attachments/2b7bfee35cbec2f4e799bb011ac18f69/03.png)
 
